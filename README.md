@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smonroe6&show_icons=true&theme=dark&title_color=FF8200&text_color=58595B&icon_color=FF8200)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smonroe6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **smonroe6/smonroe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
