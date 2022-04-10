@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smonroe6&show_icons=true&theme=dark&title_color=FF8200&text_color=58595B&icon_color=FF8200&count_private=true)]
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=smonroe6&show_icons=true&theme=dark&title_color=FF8200&text_color=58595B&icon_color=FF8200&count_private=true)](https://github.com/smonroe6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smonroe6&layout=default&theme=dark&title_color=FF8200&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smonroe6&layout=default&theme=dark&title_color=FF8200&count_private=true)](https://github.com/smonroe6)
 
 <!--
 **smonroe6/smonroe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
