@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smonroe6&layout=default&theme=dark&title_color=FF8200&count_private=true)](https://github.com/smonroe6)
 
+[![Stephen's Recently Played Songs](https://spotify-recently-played-readme.vercel.app/api?user=spiderlaxboy18&unique=true)](https://open.spotify.com/user/spiderlaxboy18)
+
 <!--
 **smonroe6/smonroe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
